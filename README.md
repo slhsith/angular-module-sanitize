@@ -1,7 +1,7 @@
 angular-module-sanitize
 =======================
 
-Sanitize AngularJS module suitable for bundling with Browserify or Webpack
+Sanitize AngularJS module suitable for bundling with [Browserify](http://browserify.org/) or [Webpack](http://webpack.github.io/)
 
 Installation
 ------------
