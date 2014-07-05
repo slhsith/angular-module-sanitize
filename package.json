@@ -1,6 +1,6 @@
 {
   "name": "angular-module-sanitize",
-  "version": "1.2.16",
+  "version": "1.2.18",
   "description": "Sanitize AngularJS module suitable for bundling with Browserify or Webpack",
   "main": "angular-sanitize.js",
   "scripts": {
